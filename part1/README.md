@@ -6,3 +6,12 @@ Link to the course: https://fullstackopen.com/en/part1/introduction_to_react
 *  exercises 1.3 to 1.5 can be found in folder 'exercise_complete_1_3_to_1_5'
 *  exercises 1.6 and 1.11 can be found in folder 'exercise_complete_1_6_to_1_11'
 *  exercises 1.12 and 1.14 can be found in folder 'exercise_complete_1_12_to_1_14'
+
+# UPDATE:
+The exercises are organized as described and the following folders were populated:
+
+- anecdotes
+- coursedata
+- courseinfo
+- unicafe
+
